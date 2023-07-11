@@ -5,3 +5,4 @@ npm install cypress --save -dev
 
 
 Para rodar:   NPX CYPRESS RUN
+Para rodar ele no cypress e navegador: NPX CYPRESS OPEN
